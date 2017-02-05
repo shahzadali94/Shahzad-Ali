@@ -1,8 +1,8 @@
 # Shahzad-Ali
 Instructions :
-1. Enter the required etails.
-2. Select the format you wish to export
-3. You will find the output file in local drive D.
+1.Enter the required details.
+2.Select the format you wish to export
+3.You will find the output file in local drive D.
 
 
 How it works : 
